@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rawan-sous
 - 👀 I’m interested in .technology..
-- 🌱 I’m currently a compter engineering student..
+- 🌱  compter engineering graduate..
  ...
 
 <!---
